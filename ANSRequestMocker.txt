@@ -1,5 +1,4 @@
-# ANSRequestMocker
-Simple HTTP(S) request mocking in Objective-C
+ANSRequestMocker
 
 This class allows for intercepting HTTP and HTTPS requests sent through NSURLConnection
 and NSURLSesssion.  The client app sets up filters which limit the requests which are 
